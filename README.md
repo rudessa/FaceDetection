@@ -57,7 +57,6 @@
 
 ![Фотография, где необходимо подсчитать количесвто лиц](FaceDataset/audience.jpg)
 
-![.](https://github.com/rudessa/FaceDetection/blob/main/FaceDetectionResults/comparison_audience.jpg)
-
 ![Результат работы в сравнении](https://github.com/rudessa/FaceDetection/blob/main/FaceDetectionResults/result_audience.jpg)
 
+![.](https://github.com/rudessa/FaceDetection/blob/main/FaceDetectionResults/comparison_audience.jpg)
