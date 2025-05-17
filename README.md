@@ -45,11 +45,11 @@
 
 ![Фотография, где необходимо подсчитать количесвто лиц](FaceDataset/MilitaryParade.webp)
 
-
-![](FacedetectionResults/comparison_MilitaryParade.webp)
-
-
 ![Результат работы в сравнении](FacedetectionResults/result_MilitaryParade.webp)
+
+![.](FacedetectionResults/comparison_MilitaryParade.webp)
+
+
 
 
 
@@ -57,8 +57,8 @@
 
 ![Фотография, где необходимо подсчитать количесвто лиц](FaceDataset/audience.jpg)
 
-
-![](FacedetectionResults/comparison_audience.jpg)
-
-
 ![Результат работы в сравнении](FacedetectionResults/result_audience.jpg)
+
+![.](FacedetectionResults/comparison_audience.jpg)
+
+
