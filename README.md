@@ -61,4 +61,5 @@
 
 ![.](FacedetectionResults/comparison_audience.jpg)
 
+![Результат работы в сравнении](https://github.com/rudessa/FaceDetection/blob/main/FaceDetectionResults/result_audience.jpg)
 
